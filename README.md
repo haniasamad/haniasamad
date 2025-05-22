@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
-- 🔭 I’m currently working on **Amazon**
+- 🔭 I’m currently working on **Aaghaz TAch**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **react Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haniasamad?tab=repositories](https://github.com/haniasamad?tab=repositories)
 
